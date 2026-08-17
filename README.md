@@ -38,16 +38,25 @@ Analyze monthly profit trends.
 
 Create an interactive dashboard for business decision-making.
 
-🛠️ Tools & Technologies
+🛠️ ***Tools & Technologies***
+
 Microsoft Power BI
+
 Power Query
+
 DAX
+
 Data Visualization
+
 Data Cleaning & Transformation
+
 Data Analysis
+
 📊 Key KPIs
 
-The dashboard contains the following important Key Performance Indicators (KPIs):
+
+
+***The dashboard contains the following important Key Performance Indicators (KPIs):***
 
 1. **Sales Amount**
 
